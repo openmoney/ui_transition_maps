@@ -1,4 +1,4 @@
-# ui-mm
+# ui_transition_maps
 
 A collection of [Freeplane](https://www.freeplane.org) mind maps to describe UI state transitions for *any* implementation of *open money* (although originally started for the NESTS implementation currently under development).
 
@@ -8,7 +8,7 @@ This should be read in conjunction with https://openmoney.github.io/specificatio
 
 This is very much a work in progress, still in its early stages. Expect it to evolve significantly over the coming weeks.
 
-
+(This replaces https://github.com/openmoney/ui-mm)
 
 
 
