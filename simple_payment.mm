@@ -15,7 +15,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font SIZE="12"/>
 <hook NAME="MapStyle">
@@ -95,7 +94,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#000000"/>
 <node ID="ID_328716690" CREATED="1599993076372" MODIFIED="1617198056183" COLOR="#009900" STYLE="bubble"><richcontent TYPE="NODE">
@@ -130,7 +128,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#009900"/>
 </node>
@@ -148,7 +145,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#000000"/>
 <node ID="ID_1087030896" CREATED="1599993040941" MODIFIED="1617198056186" COLOR="#009900" STYLE="bubble"><richcontent TYPE="NODE">
@@ -183,7 +179,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#009900"/>
 </node>
@@ -201,7 +196,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#000000"/>
 <node ID="ID_680017582" CREATED="1599993020436" MODIFIED="1617198056188" COLOR="#009900" STYLE="bubble"><richcontent TYPE="NODE">
@@ -234,7 +228,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -250,7 +243,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#000000"/>
 <node ID="ID_842144838" CREATED="1599992989589" MODIFIED="1617198609256" COLOR="#009900" STYLE="bubble"><richcontent TYPE="NODE">
@@ -265,12 +257,11 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#009900"/>
 </node>
 </node>
-<node FOLDED="true" ID="ID_911334983" CREATED="1599925716341" MODIFIED="1617146812917" BACKGROUND_COLOR="#ffcc33" STYLE="bubble"><richcontent TYPE="NODE">
+<node ID="ID_911334983" CREATED="1599925716341" MODIFIED="1617146812917" BACKGROUND_COLOR="#ffcc33" STYLE="bubble"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -296,7 +287,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#009900"/>
 </node>
@@ -332,8 +322,8 @@
   </body>
 </html>
 </richcontent>
-<edge COLOR="#009900"/>
 <font ITALIC="false"/>
+<edge COLOR="#009900"/>
 </node>
 </node>
 <node TEXT="make payment" ID="ID_1914977064" CREATED="1599763160951" MODIFIED="1617198160803" LINK="payment_confirmation.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble" HGAP_QUANTITY="21.499999776482586 pt" VSHIFT_QUANTITY="-8.999999731779102 pt"/>
@@ -362,7 +352,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#009900"/>
 </node>
@@ -392,7 +381,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#009900"/>
 </node>
@@ -401,7 +389,7 @@
 <cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
 <node TEXT="return to user&apos;s&#xa;landing page" ID="ID_1793502564" CREATED="1599763160951" MODIFIED="1617186121978" LINK="1-2_login_landing_page.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble" HGAP_QUANTITY="34.249999396502986 pt" VSHIFT_QUANTITY="28.499999150633833 pt"/>
 <node TEXT="previous page" ID="ID_1501034920" CREATED="1599763160951" MODIFIED="1617184308603" LINK="previous_page.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble" HGAP_QUANTITY="34.99999937415125 pt" VSHIFT_QUANTITY="2.9999999105930346 pt"/>
-<node TEXT="log out" ID="ID_1700578942" CREATED="1599763160951" MODIFIED="1617184310245" LINK="web_interface_page.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble" HGAP_QUANTITY="32.74999944120647 pt" VSHIFT_QUANTITY="6.7499997988343345 pt"/>
+<node TEXT="log out" ID="ID_1700578942" CREATED="1599763160951" MODIFIED="1618068858031" LINK="0_login-registration_page_START_HERE.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble" HGAP_QUANTITY="32.74999944120647 pt" VSHIFT_QUANTITY="6.7499997988343345 pt"/>
 </node>
 </node>
 </map>
