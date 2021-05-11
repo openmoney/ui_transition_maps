@@ -21,7 +21,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font SIZE="18"/>
 <hook NAME="MapStyle">
@@ -108,7 +107,7 @@
 <edge COLOR="#000000"/>
 </node>
 </node>
-<node TEXT="log out" POSITION="right" ID="ID_1700578942" CREATED="1599763160951" MODIFIED="1617142779108" LINK="web_interface_page.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble" HGAP_QUANTITY="17.749999888241305 pt" VSHIFT_QUANTITY="19.499999418854735 pt">
+<node TEXT="log out" POSITION="right" ID="ID_1700578942" CREATED="1599763160951" MODIFIED="1620747853134" LINK="0_login-registration_page_START_HERE.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble" HGAP_QUANTITY="17.749999888241305 pt" VSHIFT_QUANTITY="19.499999418854735 pt">
 <edge COLOR="#000000"/>
 </node>
 <node TEXT="The appropriate identity and&#xa;namespace are identified from&#xa;- the user&apos;s login credentials&#xa;- cookies" POSITION="left" ID="ID_1750468988" CREATED="1617141740217" MODIFIED="1617142580375" COLOR="#009900" STYLE="bubble">

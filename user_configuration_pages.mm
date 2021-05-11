@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node FOLDED="false" ID="ID_818201278" CREATED="1599761535555" MODIFIED="1617140944201" STYLE="bubble"><richcontent TYPE="NODE">
+<node FOLDED="false" ID="ID_345495531" CREATED="1599835499447" MODIFIED="1599855000012" STYLE="bubble"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8,16 +8,13 @@
   </head>
   <body>
     <p style="text-align: left">
-      <font size="2">List the user's identities </font>
+      <font size="2">configuration </font>
     </p>
     <p style="text-align: left">
-      <font size="2">in a table displaying </font>
+      <font size="2">pages for </font>
     </p>
     <p style="text-align: left">
-      <font size="2">- <b>name</b>&#160;(identity - primary|secondary) </font>
-    </p>
-    <p style="text-align: left">
-      <font size="2">- <b>namespace</b></font>
+      <font size="2">user options</font>
     </p>
   </body>
 </html>
@@ -85,13 +82,10 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="return to user&apos;s&#xa;landing page" POSITION="right" ID="ID_1793502564" CREATED="1599763160951" MODIFIED="1620764519692" LINK="1-2_login_landing_page.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
+<node TEXT="return to user&apos;s&#xa;landing page" POSITION="right" ID="ID_1793502564" CREATED="1599763160951" MODIFIED="1620764305435" LINK="1-2_login_landing_page.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
 <edge COLOR="#000000"/>
 </node>
-<node TEXT="return to previous&#xa;page (identified&#xa;from page stack)" POSITION="right" ID="ID_331858616" CREATED="1599763160951" MODIFIED="1617141033500" LINK="previous_page.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
-<edge COLOR="#000000"/>
-</node>
-<node TEXT="log out" POSITION="right" ID="ID_1700578942" CREATED="1599763160951" MODIFIED="1620765986720" LINK="0_login-registration_page_START_HERE.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble" VSHIFT_QUANTITY="28.49999915063384 pt">
+<node TEXT="log out" POSITION="right" ID="ID_1700578942" CREATED="1599763160951" MODIFIED="1620764359817" LINK="0_login-registration_page_START_HERE.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble" HGAP_QUANTITY="13.250000022351742 pt" VSHIFT_QUANTITY="16.499999508261695 pt">
 <edge COLOR="#000000"/>
 </node>
 </node>

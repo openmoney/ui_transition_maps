@@ -108,11 +108,11 @@
 <node TEXT="display balance" POSITION="right" ID="ID_1914346599" CREATED="1617144197446" MODIFIED="1617911248221" BACKGROUND_COLOR="#ffffcc" STYLE="bubble">
 <edge COLOR="#000000"/>
 </node>
-<node TEXT="display account state" POSITION="right" ID="ID_750141088" CREATED="1617144220174" MODIFIED="1617144452621" LINK="display_account_history.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
+<node TEXT="display account state" POSITION="right" ID="ID_750141088" CREATED="1617144220174" MODIFIED="1620766618420" LINK="display_account_history.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
 <edge COLOR="#000000"/>
 <node TEXT="(parabolic graph)" ID="ID_1632650628" CREATED="1617144384645" MODIFIED="1617144398620"/>
 </node>
-<node TEXT="display history" POSITION="right" ID="ID_1679714958" CREATED="1617144220174" MODIFIED="1617144452623" LINK="display_account_history.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
+<node TEXT="display history" POSITION="right" ID="ID_1679714958" CREATED="1617144220174" MODIFIED="1620765500252" LINK="display_account_history.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
 <edge COLOR="#000000"/>
 </node>
 <node TEXT="currency details" POSITION="right" ID="ID_1696527588" CREATED="1599925716341" MODIFIED="1617144163207" LINK="currency_details.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">

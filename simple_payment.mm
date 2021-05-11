@@ -293,7 +293,6 @@
 <node TEXT="Corresponding legal tender component paid by&#xa;other means. Optional but recommended." ID="ID_1618647673" CREATED="1599992931628" MODIFIED="1617198636830" COLOR="#009900" STYLE="bubble">
 <edge COLOR="#009900"/>
 </node>
-<node TEXT="Corresponding legal tender component paid by&#xa;other means. Optional but recommended." ID="ID_1935376316" CREATED="1599992931628" MODIFIED="1617198805320" COLOR="#009900" STYLE="bubble"/>
 </node>
 <node ID="ID_1742823168" CREATED="1599925716341" MODIFIED="1617146812915" BACKGROUND_COLOR="#ffcc33" STYLE="bubble"><richcontent TYPE="NODE">
 

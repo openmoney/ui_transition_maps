@@ -82,10 +82,10 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="return to user&apos;s&#xa;landing page" POSITION="right" ID="ID_1793502564" CREATED="1599763160951" MODIFIED="1617911194358" LINK="login_landing_page.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
+<node TEXT="return to user&apos;s&#xa;landing page" POSITION="right" ID="ID_1793502564" CREATED="1599763160951" MODIFIED="1620764435094" LINK="1-2_login_landing_page.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
 <edge COLOR="#000000"/>
 </node>
-<node TEXT="log out" POSITION="right" ID="ID_1700578942" CREATED="1599763160951" MODIFIED="1617911194367" LINK="web_interface_page.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
+<node TEXT="log out" POSITION="right" ID="ID_1700578942" CREATED="1599763160951" MODIFIED="1620764474780" LINK="0_login-registration_page_START_HERE.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
 <edge COLOR="#000000"/>
 </node>
 </node>

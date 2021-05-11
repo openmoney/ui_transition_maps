@@ -100,7 +100,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -137,7 +136,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#009900"/>
 </node>
@@ -174,7 +172,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#000000"/>
 <node TEXT="namespace" ID="ID_787838474" CREATED="1599922813790" MODIFIED="1617191686779" COLOR="#cc0000" BACKGROUND_COLOR="#ffffff" STYLE="fork">
@@ -198,17 +195,16 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="username&#xa;(secondary&#xa;identity)" ID="ID_787062447" CREATED="1617192177188" MODIFIED="1617192243256" BACKGROUND_COLOR="#ffcc33" STYLE="bubble">
-<node TEXT="submit&#xa;request" ID="ID_557888468" CREATED="1617192275826" MODIFIED="1617192415467" LINK="request_secondary_identity.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
+<node TEXT="submit&#xa;request" ID="ID_557888468" CREATED="1617192275826" MODIFIED="1620766948081" LINK="submit_request.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_787062447" STARTINCLINATION="-55;-146;" ENDINCLINATION="5;-8;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 </node>
 </node>
 <node TEXT="Something else&#xa;(general enquiry)" ID="ID_1647837409" CREATED="1599922977094" MODIFIED="1617192689969" STYLE="bubble">
 <node TEXT="details" ID="ID_355705862" CREATED="1617192177188" MODIFIED="1617192641272" BACKGROUND_COLOR="#ffcc33" STYLE="bubble">
-<node TEXT="submit&#xa;enquiry" ID="ID_638596084" CREATED="1617192275826" MODIFIED="1617192551745" LINK="request_secondary_identity.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
+<node TEXT="submit&#xa;enquiry" ID="ID_638596084" CREATED="1617192275826" MODIFIED="1620766954324" LINK="submit_request.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
 </node>
 </node>
 <node ID="ID_900752102" CREATED="1599922977094" MODIFIED="1617191040155" STYLE="bubble"><richcontent TYPE="NODE">
@@ -231,7 +227,7 @@
 </html>
 </richcontent>
 <node TEXT="[optional]&#xa;information" ID="ID_424818611" CREATED="1617192177188" MODIFIED="1617193215760" BACKGROUND_COLOR="#ffcc33" STYLE="bubble">
-<node TEXT="submit&#xa;enquiry" ID="ID_911931010" CREATED="1617192275826" MODIFIED="1617192551745" LINK="request_secondary_identity.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
+<node TEXT="submit&#xa;enquiry" ID="ID_911931010" CREATED="1617192275826" MODIFIED="1620766968444" LINK="submit_request.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
 </node>
 </node>
 <node ID="ID_1147130531" CREATED="1599923161102" MODIFIED="1617192990170" STYLE="bubble"><richcontent TYPE="NODE">
@@ -255,10 +251,9 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="[optional]&#xa;information" ID="ID_573688251" CREATED="1617192177188" MODIFIED="1617193222353" BACKGROUND_COLOR="#ffcc33" STYLE="bubble">
-<node TEXT="submit&#xa;enquiry" ID="ID_605007118" CREATED="1617192275826" MODIFIED="1617192551745" LINK="request_secondary_identity.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
+<node TEXT="submit&#xa;enquiry" ID="ID_605007118" CREATED="1617192275826" MODIFIED="1620766975827" LINK="submit_request.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
 </node>
 </node>
 </node>
@@ -289,7 +284,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#009900" WIDTH="2" TRANSPARENCY="200" DASH="3 3" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1592614321" STARTINCLINATION="79;0;" ENDINCLINATION="79;0;" STARTARROW="NONE" ENDARROW="NONE"/>
 </node>
@@ -329,7 +323,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#009900"/>
 </node>
@@ -352,17 +345,16 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="username&#xa;(secondary&#xa;identity)" ID="ID_92333237" CREATED="1617192177188" MODIFIED="1617192243256" BACKGROUND_COLOR="#ffcc33" STYLE="bubble">
-<node TEXT="submit&#xa;request" ID="ID_1820593340" CREATED="1617192275826" MODIFIED="1617192816963" LINK="request_secondary_identity.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
+<node TEXT="submit&#xa;request" ID="ID_1820593340" CREATED="1617192275826" MODIFIED="1620766995019" LINK="submit_request.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_92333237" STARTINCLINATION="-55;-146;" ENDINCLINATION="5;-8;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 </node>
 </node>
 <node TEXT="Something else&#xa;(general enquiry)" ID="ID_1065361060" CREATED="1599922977094" MODIFIED="1617192689969" STYLE="bubble">
 <node TEXT="details" ID="ID_79078293" CREATED="1617192177188" MODIFIED="1617192641272" BACKGROUND_COLOR="#ffcc33" STYLE="bubble">
-<node TEXT="submit&#xa;enquiry" ID="ID_1084253287" CREATED="1617192275826" MODIFIED="1617192551745" LINK="request_secondary_identity.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
+<node TEXT="submit&#xa;enquiry" ID="ID_1084253287" CREATED="1617192275826" MODIFIED="1620767010458" LINK="submit_request.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
 </node>
 </node>
 <node ID="ID_1743490633" CREATED="1599922977094" MODIFIED="1617191733061" STYLE="bubble"><richcontent TYPE="NODE">
@@ -383,10 +375,9 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="[optional]&#xa;information" ID="ID_1035159219" CREATED="1617192177188" MODIFIED="1617193215760" BACKGROUND_COLOR="#ffcc33" STYLE="bubble">
-<node TEXT="submit&#xa;enquiry" ID="ID_1358702744" CREATED="1617192275826" MODIFIED="1617192551745" LINK="request_secondary_identity.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
+<node TEXT="submit&#xa;enquiry" ID="ID_1358702744" CREATED="1617192275826" MODIFIED="1620767019231" LINK="submit_request.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
 </node>
 </node>
 <node ID="ID_1641960932" CREATED="1599923161102" MODIFIED="1617192986960" STYLE="bubble"><richcontent TYPE="NODE">
@@ -410,10 +401,9 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="[optional]&#xa;information" ID="ID_1014126372" CREATED="1617192177188" MODIFIED="1617193215760" BACKGROUND_COLOR="#ffcc33" STYLE="bubble">
-<node TEXT="submit&#xa;enquiry" ID="ID_212128566" CREATED="1617192275826" MODIFIED="1617192551745" LINK="request_secondary_identity.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
+<node TEXT="submit&#xa;enquiry" ID="ID_212128566" CREATED="1617192275826" MODIFIED="1620767030067" LINK="submit_request.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
 </node>
 </node>
 </node>
@@ -435,21 +425,20 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#009900"/>
 </node>
 <node TEXT="information/evidence to justify&#xa;restoration of my use/access&#xa;of the namespace or currency" ID="ID_246522681" CREATED="1599923250390" MODIFIED="1617186470479" BACKGROUND_COLOR="#ffcc33" STYLE="bubble">
-<node TEXT="submit&#xa;response" ID="ID_333060453" CREATED="1617192275826" MODIFIED="1617193093760" LINK="request_secondary_identity.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
+<node TEXT="submit&#xa;response" ID="ID_333060453" CREATED="1617192275826" MODIFIED="1620767040756" LINK="submit_request.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
 </node>
 <node TEXT="confirmation of agreement&#xa;to abide by newly explained&#xa;or revised policy." ID="ID_614706292" CREATED="1599923259862" MODIFIED="1617193072304" STYLE="bubble">
-<node TEXT="submit&#xa;response" ID="ID_908492494" CREATED="1617192275826" MODIFIED="1617193093760" LINK="request_secondary_identity.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
+<node TEXT="submit&#xa;response" ID="ID_908492494" CREATED="1617192275826" MODIFIED="1620767051404" LINK="submit_request.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
 </node>
 </node>
 <node TEXT="something else" ID="ID_623577631" CREATED="1599923378190" MODIFIED="1617191686777" COLOR="#cc0000" STYLE="fork">
 <font BOLD="true"/>
 <node TEXT="Enter enquiry, suggestion&#xa;or recommendation in the&#xa;free-form text box." ID="ID_1776728337" CREATED="1599923964750" MODIFIED="1617186470475" HGAP_QUANTITY="16.999999910593036 pt" VSHIFT_QUANTITY="-22.499999329447768 pt" BACKGROUND_COLOR="#ffcc33" STYLE="bubble">
-<node TEXT="submit&#xa;enquiry" ID="ID_1241181607" CREATED="1617192275826" MODIFIED="1617192551745" LINK="request_secondary_identity.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
+<node TEXT="submit&#xa;enquiry" ID="ID_1241181607" CREATED="1617192275826" MODIFIED="1620767059115" LINK="submit_request.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble"/>
 </node>
 </node>
 </node>
@@ -458,7 +447,7 @@
 <cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
 <node TEXT="return to user&apos;s&#xa;landing page" ID="ID_1558468768" CREATED="1599763160951" MODIFIED="1617186121978" LINK="1-2_login_landing_page.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble" HGAP_QUANTITY="34.249999396502986 pt" VSHIFT_QUANTITY="28.499999150633833 pt"/>
 <node TEXT="previous page" ID="ID_1501034920" CREATED="1599763160951" MODIFIED="1617184308603" LINK="previous_page.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble" HGAP_QUANTITY="34.99999937415125 pt" VSHIFT_QUANTITY="2.9999999105930346 pt"/>
-<node TEXT="log out" ID="ID_1567423800" CREATED="1599763160951" MODIFIED="1617184310245" LINK="web_interface_page.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble" HGAP_QUANTITY="32.74999944120647 pt" VSHIFT_QUANTITY="6.7499997988343345 pt"/>
+<node TEXT="log out" ID="ID_1567423800" CREATED="1599763160951" MODIFIED="1620766161358" LINK="0_login-registration_page_START_HERE.mm" BACKGROUND_COLOR="#ccffcc" STYLE="bubble" HGAP_QUANTITY="32.74999944120647 pt" VSHIFT_QUANTITY="6.7499997988343345 pt"/>
 </node>
 </node>
 </map>
